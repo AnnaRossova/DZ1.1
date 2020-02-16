@@ -8,7 +8,6 @@
 
 В результате тестирования выявлены следующие дефекты:
 https://github.com/AnnaRossova/DZ1.1/issues/1
-https://github.com/AnnaRossova/DZ1.1/issues/2
 https://github.com/AnnaRossova/DZ1.1/issues/3
 
 ## Описание процесса тестирования
@@ -29,8 +28,8 @@ https://github.com/AnnaRossova/DZ1.1/issues/3
 * 18252235-78e0-44a5-8720-556f0c7da17a
 * e66075b6-ddad-445e-baf6-161b3289522b
 * b6d53250-f07e-4352-a293-6102ddf7f1ca
-c2bc778a-1cb9-46c6-b435-0489649d2a42
-2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1
+* c2bc778a-1cb9-46c6-b435-0489649d2a42
+* 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1
 
 Тестирование производилось в следующем окружении:
 * Windows 64-Bit Server
